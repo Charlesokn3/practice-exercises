@@ -1,0 +1,15 @@
+#jsonInput {
+    background-color: rgb(204, 255, 0);
+    width: 200px;
+    height: 200px;
+    border: 2px solid blueviolet;
+    border-radius: 10px;
+}
+
+#csvOutput {
+    background-color: rgb(0, 191, 255);
+    width: 200px;
+    height: 200px;
+    border: 2px solid blueviolet;
+    border-radius: 10px;
+}
