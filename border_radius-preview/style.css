@@ -9,3 +9,6 @@ body {
     border: 2px solid blueviolet;
     border-radius: 10px;
 }
+#advanced-controls {
+    display: none;
+}
